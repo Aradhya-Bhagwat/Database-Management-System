@@ -5,7 +5,7 @@ def create_connection():
         connection = pymysql.connect(
             host='localhost',
             user='root',
-            password='Bhagwat'
+            password='root'
         )
         print("Connected to MySQL database")
         return connection
