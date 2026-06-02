@@ -11,7 +11,7 @@ Design and construct a comprehensive ER Diagram representing the data requiremen
 - Distinguish between primary keys, candidate keys, and descriptive attributes.
 - Establish relationships, identifying their degrees (binary, ternary) and structural constraints (cardinality ratio and participation).
 
-*Refer to the diagram: [ER_1.png]*
+*Refer to the diagram: [ER_1.png](./ER_1.png)*
 
 ---
 
@@ -21,4 +21,11 @@ Design and construct a detailed ER Diagram for a logistics, parts supply, and sh
 - Model multi-way relationship sets or binary approximations as appropriate.
 - Clearly annotate structural constraints (e.g., one-to-many, many-to-many) and key constraints.
 
-*Refer to the diagram: [ER_2.png]*
+*Refer to the diagram: [ER_2.png](./ER_2.png)*
+
+---
+
+## Diagram Reference
+The finalized Entity-Relationship diagrams can be viewed directly here:
+- **Enterprise System Model**: [ER_1.png](./ER_1.png)
+- **Logistics & Shipment System**: [ER_2.png](./ER_2.png)

@@ -85,3 +85,8 @@ Formulate and execute SQL queries to perform the following operations:
 
 11. **Salary Increments (Current)**  
     Increase the salary of all salesmen by **10% of their current salary**.
+
+---
+
+## Code Reference
+The full SQL query script containing table populations and data manipulation operations can be accessed here: [DML.sql](./DML.sql)

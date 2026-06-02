@@ -23,8 +23,7 @@ The table below reflects the implementations present in the source files:
 | `Assignment_05` | **Complex Subqueries and Aggregations** | Non-correlated/correlated subqueries, aggregate grouping with filters (`GROUP BY` and `HAVING`), and relational division. |
 | `Assignment_06` | **Database Connectivity & CRUD** | Menu-driven console interface linking Python frontend to a MySQL backend, demonstrating full CRUD execution. |
 | `Assignment_07` | **PL/SQL Stored Functions** | Modular backend programming by creating stored functions that retrieve derived address profiles using multi-table joins. |
-| `Assignment_08` | **PL/SQL Cursors & Procedures** | Procedural loop processing by declaring explicit Cursors and Continue Handlers to run custom financial interest computations. |
-| `Assignment_09` | **PL/SQL Triggers** | Event-driven programming (`AFTER INSERT`, `AFTER DELETE`) designed to automatically enforce reciprocal friendship symmetry. |
+| `Assignment_08` | **PL/SQL Triggers** | Event-driven programming (`AFTER INSERT`, `AFTER DELETE`) designed to automatically enforce reciprocal friendship symmetry. |
 
 ## 🚀 Getting Started
 

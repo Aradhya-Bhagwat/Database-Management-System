@@ -63,3 +63,10 @@ An enterprise database that tracks employees, the companies they work for, their
 4. **Manages (`manages`)**
    - `employee_name`: Varchar, Primary Key, Foreign Key referencing `employee(employee_name)`
    - `manager_name`: Varchar, Foreign Key referencing `employee(employee_name)`
+
+---
+
+## Code Reference
+The physical database implementation scripts enforcing these schemas and constraints can be accessed here:
+- **Logistics Database (Schema 1)**: [LogisticsDB.sql](./LogisticsDB.sql)
+- **Office Database (Schema 2)**: [OfficeDB.sql](./OfficeDB.sql)

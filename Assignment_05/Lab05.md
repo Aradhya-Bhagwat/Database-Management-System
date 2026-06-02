@@ -71,3 +71,8 @@ Write robust SQL statements to solve the following data retrieval and modificati
 
 10. **Schema Abstraction (Views)**  
     Create a database view that consolidates employee names, scheduled dates, shifts, and position skills for quick scheduling overviews.
+
+---
+
+## Code Reference
+The full SQL query script containing advanced joins, complex subqueries, aggregate grouping, and view abstractions can be accessed here: [OfficeDB.sql](./OfficeDB.sql)

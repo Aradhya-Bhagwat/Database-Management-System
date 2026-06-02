@@ -68,3 +68,10 @@ Write standard SQL statements to perform the following operations:
 
 10. **Database Abstraction (Views)**  
     Create a view that encapsulates the names of projects and the total number of employees working on each.
+
+---
+
+## Code Reference
+The database scripts containing physical schema construction, advanced multi-table joins, view definitions, and query executions can be accessed here:
+- **Logistics Database Queries & Views**: [LogisticsDB.sql](./LogisticsDB.sql)
+- **Office Database Advanced Queries**: [OfficeDB.sql](./OfficeDB.sql)
